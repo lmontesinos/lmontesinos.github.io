@@ -1,0 +1,40 @@
+title: "Luis Montesinos"
+description: "Biomedical engineering, health data science, sustainable healthcare, and human-centered technologies."
+url: "https://yourusername.github.io"
+baseurl: ""
+
+author:
+  name: "Luis Montesinos"
+  email: "your.email@example.com"
+  location: "Mexico City, Mexico"
+
+# Replace these with your own profile links
+social:
+  github: "https://github.com/yourusername"
+  linkedin: "https://www.linkedin.com/in/yourprofile"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  publications:
+    output: false
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules

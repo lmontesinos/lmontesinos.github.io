@@ -1,19 +1,19 @@
 title: "Luis Montesinos"
 description: "Biomedical engineering, health data science, sustainable healthcare, and human-centered technologies."
-url: "https://yourusername.github.io"
+url: "https://lmontesinos.github.io"
 baseurl: ""
 
 author:
   name: "Luis Montesinos"
-  email: "your.email@example.com"
+  email: "lmontesinos@ieee.org"
   location: "Mexico City, Mexico"
 
 # Replace these with your own profile links
 social:
-  github: "https://github.com/yourusername"
-  linkedin: "https://www.linkedin.com/in/yourprofile"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-  scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+  github: "https://github.com/lmontesinos"
+  linkedin: "https://www.linkedin.com/in/lmontesinos"
+  orcid: "https://orcid.org/0000-0003-3976-4190"
+  scholar: "https://scholar.google.com/citations?user=TkA7UnAAAAAJ&hl=en&oi=ao"
 
 collections:
   projects:
